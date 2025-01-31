@@ -7,7 +7,7 @@ Current DateTime: The current date and time in ISO 8601 format (UTC).
 GitHub URL: The URL of my project's repository.
 This project demonstrates a basic API built using JavaScript. 
 
-        Request Format
+    Request Format
 Method: GET
 URL: /api
 Query Parameters: None required.
@@ -19,9 +19,9 @@ https://hng-roscalyse-8nr5.vercel.app/
     Result
   json
 {
-  "email": "your-email@example.com",
-  "current_datetime": "2025-01-30T09:30:00Z",
-  "github_url": "https://github.com/yourusername/your-repo"
+  "email": "roscalyse11@gmail.com",
+  "current_datetime": "2025-01-31T10:18:38.375Z",
+  "github_url": "    https://github.com/roscalyse/hng-roscalyse.git"
 }
 
 For more information about Node.js developers, visit:
