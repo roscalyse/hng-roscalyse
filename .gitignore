@@ -1,0 +1,28 @@
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE and editor settings
+.vscode/
+.idea/
+*.swp
+
+# Ignore Vercel build files
+.vercel/
+node_modules/
+vendor/
+
+# Ignore environment files (DO NOT COMMIT SECRETS)
+.env
+.env.local
+.env.production
+.env.test
+
+# Ignore log files
+*.log
+logs/
+error_log
+debug.log
+
+# Ignore composer dependencies (if using Composer)
+composer.lock
