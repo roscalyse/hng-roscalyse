@@ -7,11 +7,16 @@ Current DateTime: The current date and time in ISO 8601 format (UTC).
 GitHub URL: The URL of my project's repository.
 This project demonstrates a basic API built using JavaScript. 
 
+        Request Format
+Method: GET
+URL: /api
+Query Parameters: None required.
+
     Deployment
 The API is deployed on Vercel and can be accessed publicly through the following link:
 https://hng-roscalyse-8nr5.vercel.app/
 
-//Result
+    Result
   json
 {
   "email": "your-email@example.com",
