@@ -21,7 +21,7 @@ https://hng-roscalyse-8nr5.vercel.app/
 {
   "email": "roscalyse11@gmail.com",
   "current_datetime": "2025-01-31T10:18:38.375Z",
-  "github_url": "    https://github.com/roscalyse/hng-roscalyse.git"
+"github_url": "https://github.com/roscalyse/hng-roscalyse.git"
 }
 
 For more information about Node.js developers, visit:
