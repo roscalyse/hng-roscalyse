@@ -4,6 +4,7 @@ export default (req, res) => {
   
   // Allow GET method
   res.setHeader('Access-Control-Allow-Methods', 'GET');
+  
   //json Content-Type
   res.setHeader('Content-Type', 'application/json');
   
